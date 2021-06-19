@@ -1,0 +1,2 @@
+rootProject.name = "Android-Components-LifeCycles"
+include ':app'
